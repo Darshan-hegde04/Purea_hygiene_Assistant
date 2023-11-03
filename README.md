@@ -13,7 +13,7 @@ Purea is your innovative hygiene and cleanliness assistant, developed for the [H
 - [License](#license)
 
 ## About
-Purea is an AI chatbot created during the [Hackathon Name] Hackathon, with the aim of promoting proper hygiene and cleanliness practices. It offers information, tips, and advice on various hygiene-related topics, making it a valuable resource for anyone looking to improve their personal hygiene routines.
+Purea is an AI chatbot created during the  Hackathon, with the aim of promoting proper hygiene and cleanliness practices. It offers information, tips, and advice on various hygiene-related topics, making it a valuable resource for anyone looking to improve their personal hygiene routines.
 
 ## Features
 - **Smart Enough to Decline Off-Topic Conversation**: Purea is programmed to provide informative responses related to hygiene and cleanliness. It politely declines to answer any off-topic questions, ensuring the conversation stays on point.
@@ -21,8 +21,9 @@ Purea is an AI chatbot created during the [Hackathon Name] Hackathon, with the a
 - **Supportive and Empathetic**: Purea provides support and empathy in its responses, ensuring that users feel comfortable seeking advice and information.
 - **Hygiene Tips**: Purea offers a wide range of hygiene tips and practices to help users improve their cleanliness routines.
 - **24/7 Availability**: Purea is available 24/7, providing assistance whenever you need it.
-- **Purea is responsive**: Purea is responsive it is available in multiple platform
-- **Knowledge Base**:Purea Has a vast kowledge and expertise in her feild 
+- **Responsive Across Multiple Platforms**: Purea is accessible on various platforms, ensuring you can get assistance wherever you are.
+- **Extensive Knowledge Base**: Purea has a vast knowledge and expertise in her field, with the ability to provide answers to trending questions. It's supportive and can understand emotions, making interactions more personalized and empathetic.
+
 
 ## Technologies Used
 - Python
@@ -99,8 +100,7 @@ Feel free to reach out to the project contributors if you encounter any issues o
 ## Contributors
 Darshan(GitHub Profile) - https://github.com/Darshan-hegde04/Purea_hygiene_Assistant , Linkedin:-https://www.linkedin.com/in/darshan-hegde-050b8625a
 
-This project was created as a part of the  Hackathon. It was developed
- with the aim of addressing hygiene-related challenges and providing a helpful solution. I am proud to have had the opportunity to participate in this event and showcase our innovative solution.
+This project was created as a part of the  Hackathon. It was developed with the aim of addressing hygiene-related challenges and providing a helpful solution. I am proud to have had the opportunity to participate in this event and showcase our innovative solution.
 
 
 Screenshots :
