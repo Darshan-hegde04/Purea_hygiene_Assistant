@@ -204,24 +204,30 @@ Darshan Hegde
 
 **Purea Generates Response Like Human**
 
-![Auto_Complete](https://github.com/Darshan-hegde04/Pure_chatbox/assets/149821544/00e3b5d8-6d8d-4dfe-9f56-8d4b8fb26469)
+![Auto_Complete](https://github.com/Darshan-hegde04/Purea_hygiene_Assistant/assets/149821544/b999f90f-3dc3-4d06-bc25-6c75672fae22)
 
 **Smart Enough to Decline Off-Topic Conversation**
 
-![Smart_to_decline_offtopic_questions](https://github.com/Darshan-hegde04/Pure_chatbox/assets/149821544/b44d3935-3324-4ec4-8fb3-07e505660383)
+![Smart_to_decline_offtopic_questions](https://github.com/Darshan-hegde04/Purea_hygiene_Assistant/assets/149821544/4a6d65ad-c5df-4d0c-8190-eebf9a325c61)
 
 **Purea is informative**
 
-![Human Like Response](https://github.com/Darshan-hegde04/Pure_chatbox/assets/149821544/39e6a8cd-e3a3-485a-93ab-6a8c0f4c5557)
+![Human Like Response](https://github.com/Darshan-hegde04/Purea_hygiene_Assistant/assets/149821544/e4c0f786-51c5-4efb-a4aa-eb14106df013)
 
 **Purea is Responsive**
 
-![mobile ](https://github.com/Darshan-hegde04/Pure_chatbox/assets/149821544/99f668dd-c494-41a7-b762-c957218fbc6f)
-![Responcive](https://github.com/Darshan-hegde04/Pure_chatbox/assets/149821544/a3e9e7fa-11c5-4137-86db-21d51fd4dc25)
+![Responcive](https://github.com/Darshan-hegde04/Purea_hygiene_Assistant/assets/149821544/8f09b793-c0dd-4a3f-8612-24498de5308e)
+![mobile ](https://github.com/Darshan-hegde04/Purea_hygiene_Assistant/assets/149821544/5f103297-7438-4805-8212-914c211ba17b)
 
 **Purea is Friendly**
 
-![Friendly _Assistent](https://github.com/Darshan-hegde04/Pure_chatbox/assets/149821544/e37e000b-9d3e-4565-ac78-1f7f884f5031)
+![Friendly _Assistent](https://github.com/Darshan-hegde04/Purea_hygiene_Assistant/assets/149821544/aadcf75a-78a7-4b06-9e67-9f9fedb16ab5)
+
+
+
+
+
+
 
 
 
