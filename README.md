@@ -72,12 +72,12 @@ To get started with Purea, follow these steps:
    ```bash
    git clone https://github.com/Darshan-hegde04/Pure_chatbox.git
    ```
-Navigate to the Project Directory: Move to the project directory after cloning it.
+2. Navigate to the Project Directory: Move to the project directory after cloning it.
 
 ``` bash
 cd Pure_chatboxSet
 ```
- SetUp Virtual Environment: It's a good practice to work within a virtual environment to manage dependencies cleanly. Create a virtual environment using your preferred method. 
+3. SetUp Virtual Environment: It's a good practice to work within a virtual environment to manage dependencies cleanly. Create a virtual environment using your preferred method. 
  For example, you can use Python's virtualenv or venv.
 
 While in the project directory, run:
@@ -96,13 +96,13 @@ On macOS and Linux:
 ```bash
 source .venv/bin/activate
 ```
-Install Requirements: Use pip to install the required Python packages specified in the requirements.txt file. These packages are essential for the project's proper functioning.
+4. Install Requirements: Use pip to install the required Python packages specified in the requirements.txt file. These packages are essential for the project's proper functioning.
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Set Up OpenAI GPT-3.5 Turbo API Access: You'll need access to the OpenAI GPT-3.5 Turbo API for Purea's intelligent responses. Follow OpenAI's documentation to set up your API access and get your API key.
+5. Set Up OpenAI GPT-3.5 Turbo API Access: You'll need access to the OpenAI GPT-3.5 Turbo API for Purea's intelligent responses. Follow OpenAI's documentation to set up your API access and get your API key.
 
 Configure API Key: Add your OpenAI API key to the project. You can do this by creating an environment variable or by adding it directly to the project's configuration.
 
