@@ -102,22 +102,22 @@ To get started with Purea, follow these steps:
 3. SetUp Virtual Environment: It's a good practice to work within a virtual environment to manage dependencies cleanly. Create a virtual environment using your preferred method. 
  For example, you can use Python's virtualenv or venv.
 
-  While in the project directory, run:
+    While in the project directory, run:
 
-  ``` bash
-  python -m venv .venv
-  ```
-  Activate the Virtual Environment: Activate the virtual environment to isolate your project's dependencies.
+    ``` bash
+    python -m venv .venv
+    ```
+    Activate the Virtual Environment: Activate the virtual environment to isolate your project's dependencies.
 
-  On Windows:
-  ```bash
-  .venv\Scripts\activate
-  ```
+    On Windows:
+    ```bash
+    .venv\Scripts\activate
+    ```
 
-  On macOS and Linux:
-  ```bash
-  source .venv/bin/activate
-  ```
+    On macOS and Linux:
+    ```bash
+    source .venv/bin/activate
+    ```
 4. Install Requirements: Use pip to install the required Python packages specified in the requirements.txt file. These packages are essential for the project's proper functioning.
 
   ```bash
@@ -189,7 +189,9 @@ That's it! You're all set to use Purea for your hygiene-related queries and assi
   Purea's frontend is implemented using HTML, CSS, Bootstrap, and JavaScript. The backend is implemented using Python, streamlit framework.
 
 
-**Purea is a complex system that uses a variety of technologies to generate accurate, comprehensive, and helpful responses to user queries. It is hosted on Render / AWS, and it uses the OpenAI GPT-3.5 Turbo API to generate responses. Purea uses a variety of techniques to overcome the limitation of the OpenAI free API, prompt engineering , analysising the user queries , limiting the number of token in response etc. **Purea can analyse emotion to understand the user's emotional state and to generate responses that are tailored to the user's mood.** The frontend is implemented using HTML, CSS, Bootstrap, and JavaScript, streamlit and the backend is implemented using Python Streamlit framework.**
+**Purea is a complex system that uses a variety of technologies to generate accurate, comprehensive, and helpful responses to user queries. It is hosted on Render / AWS, and it uses the OpenAI GPT-3.5 Turbo API to generate responses. Purea uses a variety of techniques to overcome the limitation of the OpenAI free API, prompt engineering , analysising the user queries , limiting the number of token in response etc. 
+
+**Purea can analyse emotion to understand the user's emotional state and to generate responses that are tailored to the user's mood.** The frontend is implemented using HTML, CSS, Bootstrap, and JavaScript, streamlit and the backend is implemented using Python Streamlit framework.**
 
 
 
