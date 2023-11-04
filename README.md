@@ -1,6 +1,5 @@
 # Purea - Hygiene Assistance
-
-Purea is your innovative hygiene and cleanliness assistant, developed for the [Hackathon Name] Hackathon. This project is designed to provide you with all the information and guidance you need to maintain a healthy and clean lifestyle.
+Purea is the innovative hygiene and cleanliness assistant, developed on top-off the gpt 3.5 turbo model. This project is designed to provide you with all the information and guidance you need to maintain a healthy and clean lifestyle.
 
 ## Table of Contents
 - [About](#about)
@@ -9,68 +8,51 @@ Purea is your innovative hygiene and cleanliness assistant, developed for the [H
 - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [How to Use](#how-to-use)
-- [Created By](#Created-By)
-- [Screenshots](Screenshots)
+- [How Purea Works](#How-Purea-Works)
+- [Prepared by](#Prepared-by)
+- [Screenshots](#Screenshots)
 
-## About 
+## About
+Purea is an AI chatbot created with the aim of promoting proper hygiene and cleanliness practices. It offers information, tips, and advice on various hygiene-related topics, making it a valuable resource for anyone looking to improve their personal hygiene routines.
 
-Purea is an AI chatbot created during the Hackathon, with the aim of promoting proper hygiene and cleanliness practices. It offers information, tips, and advice on various hygiene-related topics, making it a valuable resource for anyone looking to improve their personal hygiene routines.
-
-Purea has a Extensive Knowledge about hygiene and health information, so it can provide accurate and comprehensive answers to your questions. It can also generate personalized hygiene recommendations based on your individual needs and preferences.
+Purea can provide accurate and comprehensive answers to your questions. It can also generate personalized hygiene recommendations based on your individual needs and preferences.
 
 **Here are some of the things that Purea can do for you:**
 
-Provide information on a variety of hygiene topics, such as 
-- skin care,
-- hair care,
-- oral care,
-- body care,
-- menstrual hygiene,
-- travel hygiene, and many more
-  
-Offer tips and advice on how to improve your hygiene habits.
+- Provide information on a variety of hygiene topics, such as skin care, hair care, oral care, body care, menstrual hygiene, travel hygiene, and pregnancy hygiene.
+- Offer tips and advice on how to improve your hygiene habits.
 - Generate personalized hygiene recommendations based on your individual needs and preferences.
 - Track your hygiene progress over time and identify areas where you need to improve.
-  
-**Purea is the perfect companion for anyone who wants to improve their hygiene habits and overall health and well-being.**
+- Purea is the perfect companion for anyone who wants to improve their hygiene habits and overall health and well-being.
 
-**How can Purea help you?**
+How can Purea help you?
 Purea can help you in a variety of ways, including:
 
-- Improving your hygiene knowledge : Purea can teach you about the importance of good hygiene and how to maintain healthy hygiene habits.
+- Improving your hygiene knowledge: Purea can teach you about the importance of good hygiene and how to maintain healthy hygiene habits.
 - Identifying and addressing hygiene problems: Purea can help you to identify and address any hygiene problems that you may have.
 - Staying motivated and on track: Purea can provide support and encouragement to help you stay motivated and on track with your hygiene goals.
   
 Who can benefit from using Purea?
 Purea can benefit anyone who wants to improve their hygiene habits and overall health and well-being. This includes:
 
-- Individuals: Purea can help individuals to learn about good hygiene practices and to develop personalized hygiene routines.
-- Families: Purea can help families to teach their children about hygiene and to create a healthy hygiene environment in the home.
-- Schools and workplaces: Purea can be used in schools and workplaces to promote hygiene and to educate people about the importance of good hygiene practices.
+- **Individuals**: Purea can help individuals to learn about good hygiene practices and to develop personalized hygiene routines.
+- **Families**: Purea can help families to teach their children about hygiene and to create a healthy hygiene environment in the home.
+- **Schools and workplaces**: Purea can be used in schools and workplaces to promote hygiene and to educate people about the importance of good hygiene practices.
 
 
 ## Features
-- **Smart Enough to Decline Off-Topic Conversation**: Purea is programmed to provide informative responses related to hygiene and cleanliness. It politely declines to answer any off-topic questions, ensuring the conversation stays on point.
-  
-- **Natural Human-Like Tone**: Purea engages in conversations with a friendly and natural human-like tone, making it easy to interact with.
-  
+- **Smart Enough to Decline Off-Topic Conversation**: Purea is programmed to provide informative responses related to hygiene and cleanliness. It declines to answer any off-topic questions, ensuring the conversation stays on point.
+- **Natural Human-Like Tone**: Purea engages in conversations with a friendly and natural human-like tone, making it easy to interact with user .
 - **Supportive and Empathetic**: Purea provides support and empathy in its responses, ensuring that users feel comfortable seeking advice and information.
-  
 - **Hygiene Tips**: Purea offers a wide range of hygiene tips and practices to help users improve their cleanliness routines.
-  
 - **24/7 Availability**: Purea is available 24/7, providing assistance whenever you need it.
-  
 - **Responsive Across Multiple Platforms**: Purea is accessible on various platforms, ensuring you can get assistance wherever you are.
-  
 - **Extensive Knowledge Base**: Purea has a vast knowledge and expertise in her field, with the ability to provide answers to trending questions. It's supportive and can understand emotions, making interactions more personalized and empathetic.
-  
--  **Data Retention**: Purea do not store your personal conversations or data .
-  
-- **Anonymity**: Purea does not require users to provide personal information, such as names or email addresses, to use our services. You can interact with Purea anonymously.
-
+- **Data Retention**: Purea do not store your personal conversations or data 
+- **Anonymity**: Purea does not require users to provide personal information, such as names or email addresses, to use  You can interact with Purea anonymously.
 
 ## Technologies Used
-- Python
+- Python (3.11)
 - Streamlit 
 - OpenAI API (GPT-3.5 Turbo)
 - HTML, CSS, Bootstrap, and JavaScript
@@ -80,27 +62,27 @@ To get started with Purea, follow these steps:
 
 ### Prerequisites
 - Python installed on your computer.
-- Streamlit installed 
+- Streamlit 
 - Access to the OpenAI GPT-3.5 Turbo API.
-- Boorstrap NPN
+- Bootstrap NPM
 
 ### Installation
 1. **Clone the Repository**: Start by cloning the Purea repository from GitHub to your local machine. This will give you access to the project's source code.
 
    ```bash
-   git clone https://github.com/Darshan-hegde04/Purea_hygiene_Assistant/edit/main/README.md.git
+   git clone https://github.com/Darshan-hegde04/Pure_chatbox.git
+   ```
 Navigate to the Project Directory: Move to the project directory after cloning it.
 
- Navigate to the project directory
-   ```bash
-         cd Purea_hygiene_Assistant
-   ```
-
-Set Up Virtual Environment: It's a good practice to work within a virtual environment to manage dependencies cleanly. Create a virtual environment using your preferred method. For example, you can use Python's virtualenv or venv.
+``` bash
+cd Pure_chatboxSet
+```
+ SetUp Virtual Environment: It's a good practice to work within a virtual environment to manage dependencies cleanly. Create a virtual environment using your preferred method. 
+ For example, you can use Python's virtualenv or venv.
 
 While in the project directory, run:
 
-```bash
+``` bash
 python -m venv .venv
 ```
 Activate the Virtual Environment: Activate the virtual environment to isolate your project's dependencies.
@@ -111,7 +93,6 @@ On Windows:
 ```
 
 On macOS and Linux:
-
 ```bash
 source .venv/bin/activate
 ```
@@ -125,16 +106,16 @@ Set Up OpenAI GPT-3.5 Turbo API Access: You'll need access to the OpenAI GPT-3.5
 
 Configure API Key: Add your OpenAI API key to the project. You can do this by creating an environment variable or by adding it directly to the project's configuration.
 
-## How to Use
-Once you've installed Purea and set up the environment, you can start using it to get valuable hygiene-related information and assistance. 
-**Here's how:**
+### How to Use
+Once you've installed Purea and set up the environment, you can start using it to get valuable hygiene-related information and assistance. Here's how:
 
-Launch Purea: Run the  Live server on the VS Code and also run following command for Streamlit This will open the chat interface for Purea.
-```bash
+Launch Purea: Open Live server on vs-code as well as in terminal run the streamlit by entering the below command 
+
+bash
+```
 streamlit run main.py
 ```
-
-**Initiate a Conversation:** Type your hygiene-related questions or topics into the chat interface. Purea is available 24/7 to assist you with informative and friendly responses.
+Initiate a Conversation: Type your hygiene-related questions or topics into the chat interface. Purea is available 24/7 to assist you with informative and friendly responses.
 
 Receive Assistance: Purea will provide natural and helpful responses related to hygiene and cleanliness. You can engage in a conversation with Purea just like you would with a human assistant.
 
@@ -142,25 +123,78 @@ Enjoy 24/7 Access: You can use Purea at any time to get advice, tips, and inform
 
 That's it! You're all set to use Purea for your hygiene-related queries and assistance.
 
-Feel free to reach out to the project contributors if you encounter any issues or have questions. They are here to help you make the most of Purea.
-
-## Created By :
-Darshan(GitHub Profile) - https://github.com/Darshan-hegde04/Purea_hygiene_Assistant , Linkedin:-https://www.linkedin.com/in/darshan-hegde-050b8625a
-
-This project was created as a part of the  Hackathon. It was developed with the aim of addressing hygiene-related challenges and providing a helpful solution. I am proud to have had the opportunity to participate in this event and showcase our innovative solution.
+**Note Purea May not be fully optimised for the all the devices may have manior / major bugs**  
 
 
-## Screenshots :
-**Purea Gives Natural Human Like Response**
-![Auto_Complete](https://github.com/Darshan-hegde04/Purea_hygiene_Assistant/assets/149821544/fc299241-946b-43ce-bde1-9a6bc9cc8398)
+### How Purea Works 
+
+**Task is to use the free version of the Open-Ai Api Purea Uses The free version of the OpenAi api free version / Explorer Version. The Free / Explorer version has the various restriction to overcome those restriction and in-order to make Purea not to compramise in any feild we used these tecnique**
+
+- **Prompt engineering**
+  
+Prompt engineering is the process of designing and creating prompts to guide OpenAI's GPT-3.5 Turbo API to generate the desired output. Purea uses  prompt engineering techniques to ensure that its responses     are accurate, comprehensive, and helpful.
+
+One of the key techniques that Purea uses is to send a default prompt with the user's prompt. The default prompt provides OpenAI with additional context about the user's query, which helps it to generate      more accurate and relevant responses.
+
+  For example,
+  if a user asks Purea "How do I prevent acne?", Purea might send the following prompt to OpenAI:
+  ```
+  **Default prompt:** <Default_Prompt>.
+  **User prompt:** How do I prevent acne?
+  ```
+
+This prompt provides OpenAI with the context that the user is asking about acne prevention, and it also gives OpenAI the opportunity to access its knowledge base of acne information.
+
+
+- **Render/AWS as hosting**
+Purea is hosted on Render, a cloud platform that provides a variety of services for deploying and managing web applications. Render uses AWS as its underlying infrastructure, so Purea is able to take advantage of AWS's scalability and reliability. 
+
+- **OpenAI API**
+Purea uses the OpenAI GPT-3.5 Turbo API to generate responses to user queries. The OpenAI GPT-3.5 Turbo API is a powerful language model that can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way.
+
+- **Limitation of the OpenAI free API**
+The OpenAI free API has a limit on the number of requests that can be made per day and the Token size and various other restriction like unavailability of Fine-Tunning etc. To overcome this limitation, Purea uses a combination of techniques, including:
+
+    - Prompt engineering: Purea uses prompt engineering techniques to generate more efficient prompts, which reduces the number of tokens that OpenAI needs to generate a response. 
+    - Emotion analysis
+                    Purea uses emotion analysis to understand the user's emotional state and to generate responses that are tailored to the user's mood. For example, if a user is feeling anxious about their                         acne, Purea might generate a response that is more reassuring and supportive.
+
+Implementation of frontend HTML, CSS, Bootstrap, and JS to backend
+Purea's frontend is implemented using HTML, CSS, Bootstrap, and JavaScript. The backend is implemented using Python, streamlit framework.
+
+
+**Purea is a complex system that uses a variety of technologies to generate accurate, comprehensive, and helpful responses to user queries. It is hosted on Render / AWS, and it uses the OpenAI GPT-3.5 Turbo API to generate responses. Purea uses a variety of techniques to overcome the limitation of the OpenAI free API, prompt engineering , analysising the user queries , limiting the number of token in response etc. **Purea can analyse emotion to understand the user's emotional state and to generate responses that are tailored to the user's mood.** The frontend is implemented using HTML, CSS, Bootstrap, and JavaScript, streamlit and the backend is implemented using Python Streamlit framework.**
+
+
+
+### Prepared by
+Darshan Hegde (GitHub Profile) - https://github.com/Darshan-hegde04
+
+linkedin - https://www.linkedin.com/in/darshan-hegde-050b8625a 
+
+### Screen Shots
+
+**Purea Generates Response Like Human**
+
+![Auto_Complete](https://github.com/Darshan-hegde04/Pure_chatbox/assets/149821544/00e3b5d8-6d8d-4dfe-9f56-8d4b8fb26469)
+
+**Smart Enough to Decline Off-Topic Conversation**
+
+![Smart_to_decline_offtopic_questions](https://github.com/Darshan-hegde04/Pure_chatbox/assets/149821544/b44d3935-3324-4ec4-8fb3-07e505660383)
+
+**Purea is informative**
+
+![Human Like Response](https://github.com/Darshan-hegde04/Pure_chatbox/assets/149821544/39e6a8cd-e3a3-485a-93ab-6a8c0f4c5557)
 
 **Purea is Responsive**
-![Responcive](https://github.com/Darshan-hegde04/Purea_hygiene_Assistant/assets/149821544/91693ec9-5f60-4321-85d7-56cb7c3258bb) , ![mobile ](https://github.com/Darshan-hegde04/Purea_hygiene_Assistant/assets/149821544/368f8bd9-13db-411a-8806-aa3a41bd4a53)
 
-**Purea is Smart Enough to Decline Off-Topic Conversation**
-![Smart_to_decline_offtopic_questions](https://github.com/Darshan-hegde04/Purea_hygiene_Assistant/assets/149821544/81345aa0-ab5e-4983-926c-e97000a1e96f)
+![mobile ](https://github.com/Darshan-hegde04/Pure_chatbox/assets/149821544/99f668dd-c494-41a7-b762-c957218fbc6f)
+![Responcive](https://github.com/Darshan-hegde04/Pure_chatbox/assets/149821544/a3e9e7fa-11c5-4137-86db-21d51fd4dc25)
 
-**Purea is Friendly and Supportive**
-![Friendly _Assistent](https://github.com/Darshan-hegde04/Purea_hygiene_Assistant/assets/149821544/a76a6f4a-ca17-47b8-b9f5-08116ef48e23)
+**Purea is Friendly**
 
-![Human Like Response](https://github.com/Darshan-hegde04/Purea_hygiene_Assistant/assets/149821544/36651232-cc97-48d3-addf-5b3eb11f70bf)
+![Friendly _Assistent](https://github.com/Darshan-hegde04/Pure_chatbox/assets/149821544/e37e000b-9d3e-4565-ac78-1f7f884f5031)
+
+
+
+
