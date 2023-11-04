@@ -13,3 +13,15 @@ $('.close-btn').on('click', function () {
     $('.sidebar').removeClass('active');
 
 })
+function copyCopy(element) {
+    var copyText = element.textContent;
+    var $temp = $("<input>");
+    $("body").append($temp);
+    $temp.val(copyText);
+    $temp.select();
+    document.execCommand("copy");
+    $temp.remove();
+    alert("Text copied!");
+  }
+  
+  
