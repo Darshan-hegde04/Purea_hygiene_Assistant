@@ -189,7 +189,7 @@ That's it! You're all set to use Purea for your hygiene-related queries and assi
   Purea's frontend is implemented using HTML, CSS, Bootstrap, and JavaScript. The backend is implemented using Python, streamlit framework.
 
 
-**Purea is a complex system that uses a variety of technologies to generate accurate, comprehensive, and helpful responses to user queries. It is hosted on Render / AWS, and it uses the OpenAI GPT-3.5 Turbo API to generate responses. Purea uses a variety of techniques to overcome the limitation of the OpenAI free API, prompt engineering , analysising the user queries , limiting the number of token in response etc. 
+**Purea is a complex system that uses a variety of technologies to generate accurate, comprehensive, and helpful responses to user queries. It is hosted on Render / AWS, and it uses the OpenAI GPT-3.5 Turbo API to generate responses. Purea uses a variety of techniques to overcome the limitation of the OpenAI free API, prompt engineering , analysising the user queries , limiting the number of token in response etc.** 
 
 **Purea can analyse emotion to understand the user's emotional state and to generate responses that are tailored to the user's mood.** The frontend is implemented using HTML, CSS, Bootstrap, and JavaScript, streamlit and the backend is implemented using Python Streamlit framework.**
 
